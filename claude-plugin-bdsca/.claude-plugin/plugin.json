@@ -1,0 +1,20 @@
+{
+  "name": "blackduck-bdsca-mcp",
+  "version": "0.9.4",
+  "description": "Black Duck SCA tools for vulnerability analysis, component scanning, and compliance reporting",
+  "author": {
+    "name": "Black Duck Software, Inc.",
+    "url": "https://www.blackduck.com/"
+  },
+  "keywords": [
+    "black duck",
+    "sca",
+    "software composition analysis",
+    "vulnerability analysis",
+    "component scanning",
+    "compliance reporting",
+    "software supply chain security",
+    "open source security",
+    "software risk management"
+  ]
+}
