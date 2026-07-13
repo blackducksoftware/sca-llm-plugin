@@ -4,8 +4,10 @@
       "command": "uvx",
       "args": [
         "--managed-python",
-        "--python 3.13",
-        "--from", "blackduck-sca-mcp==0.9.4",
+        "--python",
+        "3.13",
+        "--from",
+        "blackduck-sca-mcp==0.9.4",
         "bdsca"
       ],
       "env": {
