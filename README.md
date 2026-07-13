@@ -38,7 +38,7 @@ Available environment variables for configuring the MCP server:
 ## Skills
 The plugin includes user-invoked **skills** that orchestrate the MCP
 tools into complete security workflows.  
-For detailed skill descriptions see **[skills/README.md](skills/README.md)**.
+For detailed skill descriptions see **[skills/README.md](claude-plugin-bdsca/skills/README.md)**.
 
 ## Authors and acknowledgment
 Jussi Polet <polet@blackduck.com>  
