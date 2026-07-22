@@ -1,6 +1,6 @@
 {
   "name": "blackduck-bdsca",
-  "version": "0.9.4",
+  "version": "0.9.5",
   "description": "Black Duck SCA tools for vulnerability analysis, component scanning, and compliance reporting",
   "author": {
     "name": "Black Duck Software, Inc.",
