@@ -14,7 +14,8 @@ Up and running Black Duck BDSCA server with user account and created access toke
 # set environment variables for the session
 $ claude
 # add the marketplace entry for the server (only needed once)
-/plugin install blackduck-bdsca@blackducksoftware/llm-plugins
+/plugin marketplace add blackducksoftware/llm-plugins
+/plugin install blackduck-bdsca
 /reload-plugins
 What SCA tools do you have access to?
 Show me my latest scans and vulnerabilities.
